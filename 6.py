@@ -1,0 +1,6 @@
+a=input("enter user name1 :")
+b=input("enter user name2 :").strip()
+print(len(a))
+print(len(b))
+print(a)
+print(b)
